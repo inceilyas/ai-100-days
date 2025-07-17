@@ -87,14 +87,6 @@ Basic packages used:
 
 ---
 
-## ✅ To Do
-
-- [ ] Try ensemble models
-- [ ] Improve feature selection
-- [ ] Use grid search or Optuna for better tuning
-
----
-
 ## 📬 Contact
 
 Feel free to reach out via mehmetilyasince1@gmail.com
