@@ -52,9 +52,8 @@ You can find the competition [here](https://www.kaggle.com/competitions/titanic/
 
 | Metric   | Score    |
 |----------|----------|
-| Accuracy | 0.78 (example) |
+| Accuracy | 0.7655   |
 
-*(Replace with your actual performance score on Kaggle leaderboard or CV)*
 
 ---
 
@@ -72,7 +71,7 @@ Basic packages used:
 - `numpy`
 - `scikit-learn`
 - `matplotlib`, `seaborn`
-- `xgboost` (if applicable)
+- `xgboost`
 
 ---
 
@@ -98,10 +97,7 @@ Basic packages used:
 
 ## 📬 Contact
 
-Feel free to reach out via [Your Contact Info or GitHub Profile].
+Feel free to reach out via mehmetilyasince1@gmail.com
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
