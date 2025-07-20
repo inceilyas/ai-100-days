@@ -1,0 +1,101 @@
+Employee_ID,Name,Age,Gender,Country,Job_Role,Experience_Years,Work_Mode,Hours_Worked_Per_Week,Productivity_Score,Mental_Health_Status,Burnout_Score,Sleep_Hours_Per_Day,Exercise_Frequency,Work_Life_Balance_Rating,Has_Access_To_Therapist,Willing_To_Return_Onsite,Remote_Setup_Satisfaction,Internet_Issues_Frequency,Team_Communication_Effectiveness
+1,User_1,28,Female,Canada,QA Engineer,5.4,Onsite,45.4,6.6,Poor,44,5.7,Rarely,7.5,True,False,9.9,Sometimes,7.7
+2,User_2,41,Prefer not to say,Australia,DevOps Engineer,10.5,Remote,40.4,8.4,Good,58,5.1,Daily,8.6,False,True,2.5,Often,9.0
+3,User_3,36,Male,Germany,UI/UX Designer,11.9,Hybrid,43.6,6.6,Good,78,6.1,Never,6.2,False,False,9.1,Often,7.7
+4,User_4,32,Prefer not to say,Germany,Product Manager,15.6,Hybrid,41.3,9.0,Moderate,71,5.4,Rarely,8.5,True,True,6.1,Sometimes,8.4
+5,User_5,29,Male,UK,DevOps Engineer,1.8,Hybrid,42.5,6.9,Poor,69,7.1,Never,6.0,True,True,9.3,Never,4.7
+6,User_6,42,Female,Brazil,QA Engineer,19.9,Remote,45.0,6.9,Poor,59,8.6,2-3x/Week,2.5,False,False,6.6,Never,8.5
+7,User_7,28,Non-binary,India,QA Engineer,9.9,Hybrid,37.9,9.1,Moderate,87,4.7,Rarely,5.2,True,False,7.3,Never,2.6
+8,User_8,47,Male,India,DevOps Engineer,6.3,Hybrid,52.5,5.8,Moderate,84,4.5,Never,6.0,True,True,6.4,Never,9.2
+9,User_9,40,Prefer not to say,Canada,QA Engineer,17.8,Remote,37.0,3.9,Poor,18,5.3,Never,7.8,False,False,8.9,Often,6.4
+10,User_10,44,Female,UK,DevOps Engineer,15.2,Onsite,35.9,3.2,Good,43,7.6,2-3x/Week,2.9,True,False,7.9,Often,8.5
+11,User_11,32,Male,USA,Data Scientist,19.1,Remote,47.8,8.3,Poor,85,7.0,Never,3.1,False,True,6.2,Sometimes,5.6
+12,User_12,32,Prefer not to say,Canada,DevOps Engineer,7.3,Hybrid,46.0,7.3,Moderate,44,4.5,Never,4.1,True,True,8.9,Sometimes,7.1
+13,User_13,45,Prefer not to say,UK,DevOps Engineer,11.5,Hybrid,45.1,7.9,Good,10,8.6,2-3x/Week,4.1,False,False,4.0,Often,6.2
+14,User_14,42,Prefer not to say,Brazil,QA Engineer,11.9,Remote,45.1,4.5,Good,49,8.0,Rarely,7.9,True,True,3.3,Often,7.9
+15,User_15,25,Male,Brazil,QA Engineer,19.6,Onsite,41.9,4.0,Moderate,73,4.1,Never,4.0,True,True,3.3,Never,2.7
+16,User_16,29,Male,Brazil,Developer,2.4,Hybrid,37.5,3.1,Moderate,31,7.3,Never,7.1,False,True,4.7,Never,2.5
+17,User_17,45,Male,Brazil,Developer,6.8,Hybrid,42.4,5.5,Moderate,69,7.9,Never,6.0,True,False,3.9,Sometimes,4.0
+18,User_18,24,Non-binary,Brazil,Data Scientist,4.6,Hybrid,38.6,7.1,Poor,73,5.9,Daily,6.6,False,False,9.4,Often,3.3
+19,User_19,43,Male,UK,Developer,6.1,Remote,46.9,5.7,Poor,81,4.3,2-3x/Week,8.7,True,True,2.8,Sometimes,9.0
+20,User_20,42,Male,UK,DevOps Engineer,10.2,Hybrid,41.3,6.1,Good,20,4.4,Daily,5.2,False,False,7.6,Often,3.8
+21,User_21,23,Male,Germany,QA Engineer,8.1,Onsite,37.9,9.3,Moderate,23,4.5,2-3x/Week,8.2,False,True,3.5,Never,9.8
+22,User_22,45,Non-binary,India,Developer,8.5,Hybrid,40.4,5.4,Good,69,8.2,Rarely,5.4,False,False,9.1,Sometimes,4.7
+23,User_23,33,Male,Australia,Developer,17.0,Hybrid,44.1,6.6,Good,39,8.6,Rarely,4.8,False,True,9.7,Sometimes,3.5
+24,User_24,27,Prefer not to say,Brazil,Data Scientist,18.7,Onsite,39.2,8.5,Good,44,4.6,Never,9.7,True,True,5.7,Often,8.3
+25,User_25,23,Male,USA,UI/UX Designer,2.3,Hybrid,37.9,5.8,Good,46,5.2,2-3x/Week,3.5,True,False,9.0,Never,7.3
+26,User_26,49,Prefer not to say,Australia,Data Scientist,5.0,Remote,43.2,7.4,Moderate,14,4.8,Rarely,2.7,False,True,2.0,Sometimes,6.0
+27,User_27,42,Prefer not to say,UK,DevOps Engineer,13.8,Remote,43.2,9.0,Good,87,4.9,2-3x/Week,8.2,False,False,8.6,Never,6.4
+28,User_28,22,Prefer not to say,USA,QA Engineer,7.8,Remote,39.5,9.6,Moderate,35,8.2,Rarely,2.5,False,False,3.8,Sometimes,7.8
+29,User_29,33,Non-binary,USA,Data Scientist,5.8,Onsite,39.6,4.0,Moderate,71,5.7,Daily,8.7,True,True,9.3,Never,3.8
+30,User_30,47,Non-binary,USA,Developer,6.6,Hybrid,43.2,9.5,Poor,13,5.6,Rarely,5.5,True,True,2.0,Often,10.0
+31,User_31,43,Non-binary,Germany,QA Engineer,7.1,Remote,34.8,6.4,Moderate,51,5.1,Daily,9.3,True,False,6.4,Sometimes,9.8
+32,User_32,33,Male,UK,QA Engineer,17.1,Onsite,35.0,4.8,Poor,27,7.0,Rarely,7.8,True,True,8.1,Sometimes,7.2
+33,User_33,46,Prefer not to say,USA,Developer,3.6,Hybrid,38.4,6.2,Moderate,49,5.9,Never,6.9,False,True,4.1,Never,3.6
+34,User_34,38,Non-binary,Brazil,Data Scientist,14.5,Onsite,40.9,9.9,Moderate,81,7.7,Daily,9.6,False,True,3.5,Never,7.4
+35,User_35,48,Non-binary,Canada,Developer,11.5,Remote,43.6,6.4,Moderate,48,5.0,Rarely,5.2,False,True,2.7,Sometimes,2.6
+36,User_36,48,Male,USA,UI/UX Designer,6.6,Remote,49.4,5.3,Poor,23,7.9,Never,9.6,True,True,4.6,Often,2.2
+37,User_37,31,Non-binary,Germany,QA Engineer,9.0,Remote,46.3,7.4,Poor,41,7.0,Daily,3.1,True,False,6.5,Never,4.1
+38,User_38,49,Male,Australia,Product Manager,5.9,Onsite,41.2,4.7,Good,60,4.6,Never,5.9,True,False,2.9,Never,5.7
+39,User_39,49,Female,UK,Product Manager,12.6,Onsite,41.9,3.5,Poor,47,6.1,2-3x/Week,4.2,False,True,5.0,Never,8.9
+40,User_40,37,Non-binary,Germany,DevOps Engineer,2.6,Remote,37.0,3.9,Poor,32,8.3,2-3x/Week,6.3,False,True,2.1,Sometimes,7.8
+41,User_41,36,Female,USA,Developer,1.1,Onsite,41.9,3.9,Poor,72,8.6,Daily,3.3,True,True,8.5,Sometimes,7.9
+42,User_42,36,Male,UK,Developer,12.9,Remote,40.6,4.1,Poor,24,6.3,Rarely,8.7,False,False,3.0,Sometimes,5.4
+43,User_43,40,Prefer not to say,Canada,DevOps Engineer,4.7,Remote,43.6,4.0,Good,34,6.4,Daily,8.8,True,True,4.3,Sometimes,4.8
+44,User_44,33,Non-binary,USA,DevOps Engineer,2.3,Hybrid,37.9,7.5,Poor,26,8.6,Never,9.6,True,False,2.1,Often,5.0
+45,User_45,44,Male,Germany,DevOps Engineer,8.5,Onsite,44.6,4.3,Moderate,75,6.9,Rarely,3.2,False,False,5.5,Often,9.9
+46,User_46,41,Prefer not to say,India,QA Engineer,2.0,Remote,49.7,5.4,Moderate,87,4.2,2-3x/Week,7.0,True,False,8.7,Sometimes,2.3
+47,User_47,46,Prefer not to say,Brazil,UI/UX Designer,17.8,Remote,41.5,9.3,Poor,62,8.6,Rarely,5.8,False,True,5.1,Often,8.9
+48,User_48,24,Female,Australia,Developer,1.5,Onsite,44.0,6.3,Poor,60,5.2,2-3x/Week,4.8,True,False,3.4,Never,6.6
+49,User_49,26,Male,Germany,QA Engineer,12.0,Hybrid,45.5,7.7,Moderate,48,6.9,Rarely,4.8,False,True,8.0,Never,5.5
+50,User_50,40,Prefer not to say,UK,DevOps Engineer,9.3,Hybrid,40.0,4.2,Moderate,60,4.8,Rarely,5.3,False,False,8.3,Never,7.8
+51,User_51,28,Non-binary,USA,Developer,13.8,Remote,43.1,4.3,Good,79,4.2,Rarely,7.6,False,True,3.4,Sometimes,5.9
+52,User_52,42,Non-binary,Brazil,QA Engineer,7.2,Onsite,42.1,3.3,Moderate,15,5.6,Never,6.8,True,False,8.2,Never,9.0
+53,User_53,30,Female,USA,UI/UX Designer,3.9,Hybrid,42.5,4.2,Moderate,76,7.9,Never,5.7,True,True,9.6,Often,9.2
+54,User_54,28,Prefer not to say,UK,QA Engineer,19.7,Onsite,38.1,5.0,Poor,16,5.4,Daily,2.6,False,False,3.3,Sometimes,5.4
+55,User_55,39,Male,USA,UI/UX Designer,16.9,Onsite,42.1,4.2,Moderate,60,5.1,Daily,2.6,False,True,8.2,Often,4.2
+56,User_56,25,Non-binary,India,DevOps Engineer,17.3,Remote,44.5,3.6,Good,81,5.1,2-3x/Week,2.0,True,True,7.7,Never,6.7
+57,User_57,46,Prefer not to say,Brazil,UI/UX Designer,5.8,Hybrid,49.3,3.8,Moderate,51,6.6,Never,9.7,True,True,5.8,Never,9.3
+58,User_58,49,Prefer not to say,Brazil,Developer,1.7,Remote,46.8,6.2,Poor,73,8.9,2-3x/Week,2.0,True,True,2.5,Never,3.7
+59,User_59,35,Female,UK,DevOps Engineer,6.8,Hybrid,52.8,4.4,Poor,24,6.3,Daily,2.8,False,False,2.6,Sometimes,7.0
+60,User_60,39,Non-binary,Australia,Developer,11.2,Hybrid,38.2,5.5,Moderate,38,6.8,2-3x/Week,4.5,True,False,8.8,Often,7.1
+61,User_61,47,Non-binary,India,Product Manager,7.2,Hybrid,46.4,6.5,Poor,42,8.3,Daily,8.5,True,True,9.9,Sometimes,7.9
+62,User_62,30,Male,Germany,Data Scientist,16.7,Hybrid,42.9,7.8,Good,36,6.7,Never,9.7,False,False,7.4,Sometimes,3.1
+63,User_63,47,Non-binary,USA,UI/UX Designer,6.2,Hybrid,52.9,3.3,Good,45,4.9,Rarely,8.3,True,True,5.6,Never,7.7
+64,User_64,42,Male,Canada,Data Scientist,19.3,Onsite,38.0,8.6,Moderate,38,5.5,Never,7.5,True,True,7.2,Sometimes,9.3
+65,User_65,23,Non-binary,USA,Data Scientist,9.7,Remote,37.8,7.4,Moderate,47,5.5,2-3x/Week,6.2,True,False,6.8,Sometimes,3.4
+66,User_66,41,Female,USA,UI/UX Designer,17.0,Onsite,39.0,3.6,Moderate,66,6.0,2-3x/Week,2.7,False,True,5.1,Never,3.9
+67,User_67,49,Non-binary,Germany,DevOps Engineer,4.7,Hybrid,31.4,9.1,Poor,36,6.1,Never,9.7,False,True,2.5,Sometimes,9.8
+68,User_68,36,Male,USA,Product Manager,8.8,Remote,39.4,9.4,Good,64,8.0,Never,8.1,False,False,8.6,Never,3.4
+69,User_69,49,Male,India,Developer,14.3,Hybrid,38.2,3.4,Good,42,5.7,Daily,7.1,False,True,5.0,Never,8.8
+70,User_70,28,Female,India,QA Engineer,3.6,Remote,42.8,4.9,Poor,77,6.3,2-3x/Week,8.1,False,True,8.6,Never,5.9
+71,User_71,33,Non-binary,Brazil,Developer,3.5,Onsite,43.7,8.6,Good,75,7.1,2-3x/Week,7.8,False,True,4.0,Never,4.0
+72,User_72,29,Non-binary,UK,QA Engineer,19.4,Remote,51.4,8.2,Moderate,19,5.9,Never,7.1,False,True,2.0,Sometimes,9.0
+73,User_73,36,Female,Australia,Developer,14.6,Remote,46.8,4.3,Moderate,14,8.2,Rarely,9.8,True,False,3.3,Never,5.6
+74,User_74,24,Non-binary,Canada,UI/UX Designer,1.8,Remote,39.1,4.5,Moderate,83,6.9,2-3x/Week,9.2,True,False,5.7,Never,6.1
+75,User_75,35,Non-binary,USA,Product Manager,8.6,Remote,37.5,5.6,Good,47,5.5,Rarely,7.2,False,False,9.6,Sometimes,4.9
+76,User_76,38,Male,USA,QA Engineer,9.2,Remote,44.5,6.4,Moderate,22,7.6,Never,7.5,True,True,2.8,Sometimes,6.7
+77,User_77,25,Non-binary,Germany,DevOps Engineer,15.1,Hybrid,35.4,7.3,Poor,40,6.6,Never,2.4,True,True,8.8,Often,3.3
+78,User_78,39,Non-binary,UK,Developer,5.8,Remote,51.2,5.6,Poor,56,6.7,Daily,7.4,False,False,6.2,Sometimes,5.1
+79,User_79,29,Female,India,Developer,4.5,Remote,47.9,6.2,Good,61,6.4,2-3x/Week,2.4,True,True,8.6,Sometimes,9.8
+80,User_80,25,Female,Canada,QA Engineer,2.5,Onsite,39.7,8.2,Poor,65,6.5,Rarely,6.7,True,True,4.4,Often,4.1
+81,User_81,23,Prefer not to say,Brazil,DevOps Engineer,9.1,Remote,33.4,3.3,Poor,24,7.8,Daily,10.0,True,True,8.7,Sometimes,7.3
+82,User_82,27,Male,India,DevOps Engineer,14.1,Onsite,48.8,4.8,Good,38,4.5,2-3x/Week,6.4,True,True,8.2,Sometimes,4.6
+83,User_83,43,Non-binary,UK,UI/UX Designer,2.1,Hybrid,41.4,8.0,Moderate,17,5.7,Daily,5.8,True,False,3.8,Sometimes,8.2
+84,User_84,31,Non-binary,Australia,UI/UX Designer,18.4,Remote,48.2,9.3,Moderate,14,4.4,Never,4.5,False,False,3.1,Sometimes,3.0
+85,User_85,25,Prefer not to say,Brazil,UI/UX Designer,9.4,Onsite,34.0,6.6,Moderate,38,7.8,2-3x/Week,3.0,False,False,8.9,Often,9.8
+86,User_86,43,Non-binary,Australia,UI/UX Designer,5.6,Onsite,39.0,6.7,Good,56,5.4,Daily,7.8,False,True,9.7,Sometimes,5.6
+87,User_87,39,Male,Germany,UI/UX Designer,2.8,Hybrid,42.0,3.8,Poor,77,8.5,Daily,3.5,True,False,2.3,Sometimes,3.9
+88,User_88,47,Prefer not to say,Germany,UI/UX Designer,4.5,Remote,42.2,6.1,Moderate,85,6.6,Rarely,2.9,False,False,7.9,Often,2.6
+89,User_89,33,Male,USA,Product Manager,18.8,Remote,39.7,6.7,Moderate,54,8.0,Daily,5.4,True,True,9.3,Never,3.4
+90,User_90,23,Prefer not to say,Australia,DevOps Engineer,13.1,Onsite,45.1,4.7,Good,11,8.9,2-3x/Week,8.4,True,True,8.9,Often,6.2
+91,User_91,31,Prefer not to say,UK,UI/UX Designer,10.8,Remote,36.7,4.9,Moderate,36,8.2,2-3x/Week,8.0,True,False,9.7,Never,4.7
+92,User_92,25,Female,Canada,DevOps Engineer,13.5,Onsite,41.3,5.6,Good,45,8.3,Rarely,2.4,True,False,8.1,Often,8.6
+93,User_93,35,Male,Brazil,DevOps Engineer,9.3,Remote,42.6,3.1,Poor,45,6.0,2-3x/Week,5.6,False,False,5.5,Often,5.4
+94,User_94,37,Non-binary,India,Data Scientist,14.9,Onsite,44.6,5.3,Good,35,6.8,Never,6.2,False,False,4.5,Sometimes,4.0
+95,User_95,36,Non-binary,UK,Product Manager,1.9,Remote,45.6,4.5,Good,52,5.3,2-3x/Week,7.2,True,True,4.6,Never,6.9
+96,User_96,29,Male,UK,UI/UX Designer,11.8,Hybrid,36.4,5.3,Good,36,5.0,2-3x/Week,7.2,False,False,7.8,Sometimes,7.7
+97,User_97,35,Non-binary,Germany,Developer,4.0,Remote,34.3,3.8,Good,78,6.5,Daily,4.9,True,False,8.0,Never,3.3
+98,User_98,44,Non-binary,Australia,QA Engineer,3.3,Remote,48.4,9.2,Poor,29,7.0,Daily,6.5,False,True,3.6,Often,3.3
+99,User_99,49,Male,USA,Developer,7.5,Hybrid,43.7,7.2,Poor,20,5.7,2-3x/Week,5.8,False,False,8.9,Often,2.3
+100,User_100,46,Prefer not to say,USA,Product Manager,2.7,Remote,38.3,7.8,Moderate,83,6.8,Rarely,9.1,True,True,7.7,Never,7.9
